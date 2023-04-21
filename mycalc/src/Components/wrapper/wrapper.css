@@ -1,0 +1,10 @@
+.wrapper{
+    width:25vw;
+    height:80vh;
+    background-color: lightseagreen;
+    border-radius: 20px;
+    padding:20px;
+    display:flex;
+    flex-direction: column;
+    /* border: 5px solid white;    */
+}
